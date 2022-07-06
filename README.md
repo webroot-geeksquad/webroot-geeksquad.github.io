@@ -1,5 +1,5 @@
 # webroot.com/geeksquad
-[![webroot](get-Started.png)](/)
+[![webroot](Get-Started.png)](/)
 
 Did you purchase Webroot for your device’s security? Just buying Webroot is not enough. You need to **Webroot.com/geeksquad** to become fully functional on your device. Now you may have several questions in your mind, what is a **keycode**? Where to find it? Where to enter it? The solution to these questions is given here.
 
@@ -22,7 +22,7 @@ Webroot is one of the most trusted antivirus brands in the USA. Its virus protec
 12. Pricing details of each package are given right below it.
 13. Then after selecting the package, click add to cart option below that package.
 
-[Webroot Geeksquad](webroot.jpg)
+[![Webroot Geeksquad](webroot.jpg)]
 
 ## How to download/activate Webroot Geeksquad Antivirus
 1. Go to webroot.com/safe from your browser.
