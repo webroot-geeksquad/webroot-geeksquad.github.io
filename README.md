@@ -1,5 +1,6 @@
 # webroot.com/geeksquad
 [![webroot](get-Started.png)](/)
+
 Did you purchase Webroot for your device’s security? Just buying Webroot is not enough. You need to **Webroot.com/geeksquad** to become fully functional on your device. Now you may have several questions in your mind, what is a **keycode**? Where to find it? Where to enter it? The solution to these questions is given here.
 
 **First of all, what is Webroot?**
